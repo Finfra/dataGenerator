@@ -3,6 +3,8 @@
 #
 # Copyright (c) 2009-2018  Steve J.South [NamJungGu] <nowage@gmail.com>
 #
+#                    Power by http://finfra.com
+#
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
 # in the Software without restriction, including without limitation the rights
@@ -35,6 +37,8 @@
 
 # Excution Examples
 ```
+$ cat rowFormat.md
+$ vi rowFormat.json        # no need to chanage for test
 $ python dataGenerator.py
 Date,X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,Y
 18-01-01 00:00:00,9.9,0.07,8.09,9.15,9.22,9.44,3.46,3.92,8.66,3.94,9.09,19.06
