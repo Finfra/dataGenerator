@@ -25,7 +25,7 @@
 ```
 
 # What is dataGenerator
-* Generator pseudodata datafile by json that is data definiton.
+* Pseudodata Datafile Generator by json file is data definiton.
 * no need nuympy, no need pandas.
 
 # Usage :
