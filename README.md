@@ -21,7 +21,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 #
-# Description : It works to AllHost·MainHost·ClientHost with Copy·Command·Setting.
+# Description : Pseudodata Datafile Generator
 ```
 
 # What is dataGenerator
