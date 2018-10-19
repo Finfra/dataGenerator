@@ -37,6 +37,8 @@
 
 # Excution Examples
 ```
+$ git clone https://github.com/Finfra/dataGenerator.git
+$ cd dataGenerator
 $ cat rowFormat.md
 $ vi rowFormat.json        # no need to chanage for test
 $ python dataGenerator.py
@@ -73,7 +75,7 @@ Date,X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,Y
 
 # Requirement
 1. python3.5 or over.
-
+2. git command. (Not Necessary! if u download zip file)
 
 # toDo
 1. Add Comment on the Code.
