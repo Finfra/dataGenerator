@@ -27,4 +27,6 @@ def getEquation(e,dicName):
 # 
 
 if __name__ == '__main__':
-    print(getEquation("(a+b)*c","rr"))  
+    print(getEquation("(a+b)*c","d"))  
+    # (d["a"]+d["b"])*d["c"]
+    
